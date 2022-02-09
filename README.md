@@ -1,1 +1,1 @@
-My first project
+Nice git lessons
